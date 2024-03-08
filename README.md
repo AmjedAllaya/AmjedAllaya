@@ -52,14 +52,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amjedallaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjedallaya&show_icons=true&locale=en&layout=compact&theme=dark" alt="amjedallaya" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amjedallaya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats">
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amjedallaya&show_icons=true&locale=en&theme=dark" alt="amjedallaya" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjedallaya&&theme=tokyonight" alt="GitHub Streak">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amjedallaya&theme=dark" alt="amjedallaya" /></p>
