@@ -45,7 +45,8 @@
 <a href="https://www.postgres.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="postgres" width="37" height="40"/> </a>
   </p>
 
-[![Amjed's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amjedallaya&&theme=xcode)](https://github.com/amjedallaya)
+[![Amjed's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AMJEDALLAYA&&theme=xcode)](https://github.com/amjedallaya)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjedallaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amjedallaya" /></p>
 
