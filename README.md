@@ -1,27 +1,35 @@
+<!-- Replace the existing MasterHead image link with the new one -->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://amjedallaya.com)
 
-<h1 align="center">Hi 👋, I'm Amjed Allaya</h1>
+<!-- Add a horizontal rule for better visual separation -->
+---
+
+<h1 align="center">Hi there, I'm Amjed Allaya 👋</h1>
 <h3 align="center">A passionate FullStack Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjedallaya&label=Profile%20views&color=0e75b6&style=flat" alt="amjedallaya" /> </p>
+<!-- Add some space and align the image to the left for better readability -->
+<p align="left">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+</p>
 
-- 🔭 I’m currently working on **Automating Tasks**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amjedallaya&label=Profile%20views&color=0e75b6&style=flat" alt="amjedallaya"> 
+</p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Java , DevOps, Python, Web Scraping and Automation**
-
-- 📫 How to reach me **<amjed.allaya@outlook.com>**
-
-- ⚡ Fun fact **I am Geek**
+<h3 align="left">About Me:</h3>
+<p align="left">I'm currently working on automating tasks and learning machine learning. Feel free to reach out to me for discussions on Java, DevOps, Python, Web Scraping, and Automation.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amjed-allaya-682b7b17a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/amjed-allaya-682b7b17a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Add your favorite languages and tools with appropriate links and images -->
+  <!-- Example: -->
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/>
   </a>
   <a href="https://www.quarkus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/quarkus/quarkus-original.svg" alt="quarkus" width="40" height="40"/>
@@ -43,11 +51,19 @@
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="47"/> </a>
 <a href="https://www.postgres.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="postgres" width="37" height="40"/> </a>
-  </p>
+</p>
 
+<!-- Add horizontal rules between sections for better visual separation -->
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjedallaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amjedallaya" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amjedallaya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amjedallaya&show_icons=true&locale=en&theme=tokyonight" alt="amjedallaya" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amjedallaya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amjedallaya&&theme=tokyonight" alt="amjedallaya" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjedallaya&&theme=tokyonight" alt="GitHub Streak">
+</p>
