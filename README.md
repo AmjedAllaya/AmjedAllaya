@@ -1,7 +1,5 @@
-<!-- Replace the existing MasterHead image link with the new one -->
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://amjedallaya.com)
 
-<!-- Add a horizontal rule for better visual separation -->
 ---
 
 <h1 align="center">Hi there, I'm Amjed Allaya 👋</h1>
@@ -28,8 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Add your favorite languages and tools with appropriate links and images -->
-  <!-- Example: -->
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" alt="spring boot" width="35" height="35"/>
   </a>
   <a href="https://www.quarkus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/quarkus/quarkus-original.svg" alt="quarkus" width="40" height="40"/>
@@ -53,7 +49,7 @@
 <a href="https://www.postgres.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="postgres" width="37" height="40"/> </a>
 </p>
 
-<!-- Add horizontal rules between sections for better visual separation -->
+
 ---
 
 <p align="center">
