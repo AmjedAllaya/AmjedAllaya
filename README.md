@@ -90,9 +90,6 @@ I focus on making systems <strong>faster, easier to operate, and less expensive 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="46" height="46"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.openstack.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" alt="openstack" width="46" height="46"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="46" height="46"/>
