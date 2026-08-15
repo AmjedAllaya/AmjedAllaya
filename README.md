@@ -242,7 +242,7 @@ I focus on making systems <strong>faster, easier to operate, and less expensive 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=AmjedAllaya&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=AmjedAllaya&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=-1"
     alt="GitHub Trophies"
     width="100%"
   />
