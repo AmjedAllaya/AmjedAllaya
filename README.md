@@ -209,29 +209,43 @@ I focus on making systems <strong>faster, easier to operate, and less expensive 
 
 <br/>
 
+<!-- Stats + Languages on the same row -->
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmjedAllaya&theme=github_dark"
     alt="Amjed's GitHub Stats"
-    width="32%"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AmjedAllaya&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
-    width="32%"
+    width="49%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmjedAllaya&theme=github_dark"
     alt="Top Languages"
-    width="32%"
+    width="49%"
   />
 </p>
 
 <br/>
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=AmjedAllaya&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=6"
-alt="GitHub Trophies"
-/>
+<!-- Contribution graph on its own full row -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AmjedAllaya&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- Trophies on their own full row -->
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AmjedAllaya&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
 
 </div>
