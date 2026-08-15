@@ -213,7 +213,7 @@ I focus on making systems <strong>faster, easier to operate, and less expensive 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amjedallaya&theme=dark&background=0D1117&border=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88&sideLabels=00FF88&dates=8B949E&stroke=00FF8820" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmjedAllaya&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 
 <br/><br/>
 
